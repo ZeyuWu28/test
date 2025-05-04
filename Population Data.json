@@ -5,10 +5,10 @@
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "Study ID" }
+		{ "type": "id", "index": 1, "name": "Study ID" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 9 }
+		{ "format": "binary", "start": 2, "end": 10 }
 	],
 	"author": "Your Name",
 	"description": "Dataset containing information about population groups and their attributes.",
