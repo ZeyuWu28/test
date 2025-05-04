@@ -1,5 +1,5 @@
 {
-	"file": "Population data csv.csv",
+	"file": "https://raw.githubusercontent.com/ZeyuWu28/test/main/Population%20data%20csv.csv",
 	"name": "Population Dataset",
 	"header": 1,
 	"separator": ",",
