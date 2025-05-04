@@ -1,14 +1,14 @@
 {
 	"file": "https://raw.githubusercontent.com/ZeyuWu28/test/main/Population%20data%20csv.csv",
 	"name": "Population Dataset",
-	"header": 1,
+	"header": 0,
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 1, "name": "Study ID" }
+		{ "type": "id", "index": 0, "name": "Study ID" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 10 }
+		{ "format": "binary", "start": 1, "end": 9 }
 	],
 	"author": "Your Name",
 	"description": "Dataset containing information about population groups and their attributes.",
